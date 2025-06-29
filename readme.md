@@ -72,3 +72,36 @@
 | 32.html    | なし       |
 | 38.html    | あり       |
 
+
+## テストページ一覧（URLバージョン）
+### for_test_a
+
+| ページURL                                                                                   | 誤字の有無 |
+|---------------------------------------------------------------------------------------------|------------|
+| [https://deep-space.blue/testing/for-proofreading/test-a/03.html](https://deep-space.blue/testing/for-proofreading/test-a/03.html) | なし       |
+| [https://deep-space.blue/testing/for-proofreading/test-a/04.html](https://deep-space.blue/testing/for-proofreading/test-a/04.html) | あり       |
+| [https://deep-space.blue/testing/for-proofreading/test-a/10.html](https://deep-space.blue/testing/for-proofreading/test-a/10.html) | あり       |
+| [https://deep-space.blue/testing/for-proofreading/test-a/13.html](https://deep-space.blue/testing/for-proofreading/test-a/13.html) | あり       |
+| [https://deep-space.blue/testing/for-proofreading/test-a/15.html](https://deep-space.blue/testing/for-proofreading/test-a/15.html) | なし       |
+| [https://deep-space.blue/testing/for-proofreading/test-a/17.html](https://deep-space.blue/testing/for-proofreading/test-a/17.html) | あり       |
+| [https://deep-space.blue/testing/for-proofreading/test-a/31.html](https://deep-space.blue/testing/for-proofreading/test-a/31.html) | なし       |
+| [https://deep-space.blue/testing/for-proofreading/test-a/33.html](https://deep-space.blue/testing/for-proofreading/test-a/33.html) | なし       |
+| [https://deep-space.blue/testing/for-proofreading/test-a/36.html](https://deep-space.blue/testing/for-proofreading/test-a/36.html) | あり       |
+| [https://deep-space.blue/testing/for-proofreading/test-a/40.html](https://deep-space.blue/testing/for-proofreading/test-a/40.html) | なし       |
+
+### for_test_b
+
+| ページURL                                                                                   | 誤字の有無 |
+|---------------------------------------------------------------------------------------------|------------|
+| [https://deep-space.blue/testing/for-proofreading/test-b/05.html](https://deep-space.blue/testing/for-proofreading/test-b/05.html) | あり       |
+| [https://deep-space.blue/testing/for-proofreading/test-b/07.html](https://deep-space.blue/testing/for-proofreading/test-b/07.html) | あり       |
+| [https://deep-space.blue/testing/for-proofreading/test-b/09.html](https://deep-space.blue/testing/for-proofreading/test-b/09.html) | なし       |
+| [https://deep-space.blue/testing/for-proofreading/test-b/11.html](https://deep-space.blue/testing/for-proofreading/test-b/11.html) | あり       |
+| [https://deep-space.blue/testing/for-proofreading/test-b/14.html](https://deep-space.blue/testing/for-proofreading/test-b/14.html) | なし       |
+| [https://deep-space.blue/testing/for-proofreading/test-b/16.html](https://deep-space.blue/testing/for-proofreading/test-b/16.html) | なし       |
+| [https://deep-space.blue/testing/for-proofreading/test-b/18.html](https://deep-space.blue/testing/for-proofreading/test-b/18.html) | あり       |
+| [https://deep-space.blue/testing/for-proofreading/test-b/19.html](https://deep-space.blue/testing/for-proofreading/test-b/19.html) | なし       |
+| [https://deep-space.blue/testing/for-proofreading/test-b/32.html](https://deep-space.blue/testing/for-proofreading/test-b/32.html) | なし       |
+| [https://deep-space.blue/testing/for-proofreading/test-b/38.html](https://deep-space.blue/testing/for-proofreading/test-b/38.html) | あり       |
+
+ご要望に応じて、表形式のままURLリンクになっています。他の形式や追加情報が必要な場合もご相談ください。
